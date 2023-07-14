@@ -6,7 +6,7 @@ Recipient of the [Maker award](https://www.youtube.com/watch?v=vfyJe9bwWck) for 
 
 ### !!! Looking for Product Management roles
 
-Recently: **CPO** at [TelosAir](https://www.telosair.com/), and  **Application Engineer ** at [Corning](https://www.corning.com/worldwide/en.html) 
+Recently: **CPO** at [TelosAir](https://www.telosair.com/), and  **Application Engineer** at [Corning](https://www.corning.com/worldwide/en.html) 
 
 
 
