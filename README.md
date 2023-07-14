@@ -2,7 +2,7 @@
 
 📕 Graduated Cornell MBA in 2023
  
-[Maker award](https://www.youtube.com/watch?v=vfyJe9bwWck) Awarded to the student who has shown the most innovation in their design process utilizing the Makerlab
+Recipient of the [Maker award](https://www.youtube.com/watch?v=vfyJe9bwWck) for showing the most innovation in the design process utilizing the Makerlab
 
 ### !!! Looking for Product Management roles
 
