@@ -1,10 +1,12 @@
 # Product Manager, inventor, engineer, and amateur scientist
 
-- 📕 Graduated Cornell MBA in 2023
- [Maker award](https://www.youtube.com/watch?v=vfyJe9bwWck) Awarded to the student who has shown the most innovation in their design process utilizing the Makerlab
+📕 Graduated Cornell MBA in 2023
+ 
+[Maker award](https://www.youtube.com/watch?v=vfyJe9bwWck) Awarded to the student who has shown the most innovation in their design process utilizing the Makerlab
+
 ### !!! Looking for Product Management roles
 
-Recently: CPO at [TelosAir](https://www.telosair.com/), and Application Engineer at [Corning](https://www.corning.com/worldwide/en.html) 
+Recently: **CPO** at [TelosAir](https://www.telosair.com/), and  **Application Engineer ** at [Corning](https://www.corning.com/worldwide/en.html) 
 
 
 
