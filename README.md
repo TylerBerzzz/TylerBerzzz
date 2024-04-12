@@ -26,7 +26,7 @@ Recently: **Founding Engineer** at [TelosAir](https://www.telosair.com/), and  *
 - 🥃Corning - Engineering Consultant [03/18 - 11/21]
 - 🌬️TelosAir - Founding Engineer [01/17 - 02/18]
 - 🧑‍🔬Clarkson Aerosol lab student Reaseacher [05/16 - 12/16]
--💡Kickstarter Project Co-Owner: Sound Reactive LED Controller [05/14 - 06/15]
+-💡Kickstarter Project: Sound Reactive LED Controller [05/14 - 06/15]
 - 🧑‍🔬Colleges of Nanotechnology, Science, and Engineering (CNSE) Research & Development Intern [05/13 - 08/13] 
 
 
