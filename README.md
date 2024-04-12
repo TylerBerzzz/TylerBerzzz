@@ -10,7 +10,7 @@ Recently: **Founding Engineer** at [TelosAir](https://www.telosair.com/), and  *
 
 ## Hackathon victories:
 - 🌿 [Smart Nebulizer](https://tech.cornell.edu/news/student-teams-tackle-pressing-health-concerns-during-health-hackathon/): Grand Prize winner of NYC Health Hackathon 2023
-- 👶 Virtube - 1st place at MindState Hackathon 
+- 👶 Virtube - Grand Prize at MindState Hackathon 
 - ⚡ [Wheezer](https://devpost.com/software/wheezer-418n3w): Grand Prize and Sustainability Winner of **Intel** International Hackathon 
 - 🌪️ [The Hacknado](https://devpost.com/software/the-hacknado-ryt10a): Hack Potsdam winner
 
@@ -28,7 +28,6 @@ Recently: **Founding Engineer** at [TelosAir](https://www.telosair.com/), and  *
 - 🧑‍🔬Clarkson Aerosol lab student Reaseacher [05/16 - 12/16]
 - 💡Kickstarter Project: Sound Reactive LED Controller [05/14 - 06/15]
 - 🧑‍🔬Colleges of Nanotechnology, Science, and Engineering (CNSE) Research & Development Intern [05/13 - 08/13] 
-
 
 <!--
 **TylerBerzzz/TylerBerzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
