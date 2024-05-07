@@ -20,11 +20,11 @@ Recently: **Founding Engineer** at [TelosAir](https://www.telosair.com/), and  *
   ...
 
 ## Work experience
-- 🌬️TelosAir - Senior Product Advisor [10/23 - Present]
+- 🌬️TelosAir - Founding Engineer: Product Management & Strategy [10/23 - Present]
 - 🌐Corning - Applications Engineer [11/21 - 04/22]
-- 🌬️TelosAir - Product Manager [03/18 - 05/22]
+- 🌬️TelosAir - Founding Engineer: Full-Cycle Product Development & Management [03/18 - 05/22]
 - 🥃Corning - Engineering Consultant [03/18 - 11/21]
-- 🌬️TelosAir - Founding Engineer [01/17 - 02/18]
+- 🌬️TelosAir - Founding Engineer: Principal Investigator, R&D Innovation [01/17 - 02/18]
 - 🧑‍🔬Clarkson Aerosol lab student Reaseacher [05/16 - 12/16]
 - 💡Kickstarter Project: Sound Reactive LED Controller [05/14 - 06/15]
 - 🧑‍🔬Colleges of Nanotechnology, Science, and Engineering (CNSE) Research & Development Intern [05/13 - 08/13] 
