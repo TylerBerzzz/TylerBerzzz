@@ -20,7 +20,8 @@ Recently: **Founding Engineer** at [TelosAir](https://www.telosair.com/), and  *
   ...
 
 ## Work experience
-- 🌬️TelosAir - Founding Engineer: Product Management & Strategy [10/23 - Present]
+- ⚡Amazon - Founding: Sr. Hardware Product Manager 
+- 🌬️TelosAir - Founding Engineer: Product Management & Strategy [10/23 - 6/24]
 - 🌐Corning - Applications Engineer [11/21 - 04/22]
 - 🌬️TelosAir - Founding Engineer: Full-Cycle Product Development & Management [03/18 - 05/22]
 - 🥃Corning - Engineering Consultant [03/18 - 11/21]
