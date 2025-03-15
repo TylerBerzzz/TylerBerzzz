@@ -2,11 +2,7 @@
 
 📕 Graduated Cornell MBA in 2023
  
-Recipient of the [Maker award](https://www.youtube.com/watch?v=vfyJe9bwWck) for showing the most innovation in the design process utilizing the Makerlab
-
-Recently: **Founding Engineer** at [TelosAir](https://www.telosair.com/), and  **Application Engineer** at [Corning](https://www.corning.com/worldwide/en.html) 
-
-
+Recipient of the [Maker award](https://www.youtube.com/watch?v=vfyJe9bwWck) for showing the most innovation in the design process utilizing the Cornell Tech Makerlab
 
 ## Hackathon victories:
 - 🌿 [Smart Nebulizer](https://tech.cornell.edu/news/student-teams-tackle-pressing-health-concerns-during-health-hackathon/): Grand Prize winner of NYC Health Hackathon 2023
