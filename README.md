@@ -16,7 +16,7 @@ Recipient of the [Maker award](https://www.youtube.com/watch?v=vfyJe9bwWck) for 
   ...
 
 ## Work experience
-- ⚡Amazon - Founding: Sr. Hardware Product Manager 
+- ⚡Amazon - Sr. Hardware Product Manager Tech
 - 🌬️TelosAir - Founding Engineer: Product Management & Strategy [10/23 - 6/24]
 - 🌐Corning - Applications Engineer [11/21 - 04/22]
 - 🌬️TelosAir - Founding Engineer: Full-Cycle Product Development & Management [03/18 - 05/22]
