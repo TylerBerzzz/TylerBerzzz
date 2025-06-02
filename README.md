@@ -1,7 +1,6 @@
 # Inventor, engineer, and amateur scientist
 
-📕 Graduated Cornell MBA in 2023
- 
+📕 Cornell Tech MBA + Clarkson Mechanical Engineering BS
 Recipient of the [Maker award](https://www.youtube.com/watch?v=vfyJe9bwWck) for showing the most innovation in the design process utilizing the Cornell Tech Makerlab
 
 ## Hackathon victories:
